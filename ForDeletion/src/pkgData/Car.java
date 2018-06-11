@@ -2,5 +2,6 @@ package pkgData;
 
 public class Car {
 	int id;
-	String carName;
+	String name;
+	String plate; /* added by remote dev. */
 }
